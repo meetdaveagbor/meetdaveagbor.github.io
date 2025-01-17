@@ -2,7 +2,7 @@
 Technical Skills: Python, R,Tableau, SQL, CSS, HTML
 
 # Work Experience Skills
-Junior Data Scientist @ TechBridge Consulting (2022 - 2023)   
+**Junior Data Scientist @ TechBridge Consulting (2022 - 2023) ** 
 - Worked on projects involving large data sets and multivariate analysis to develop models for predicting user behaviors.
 - Explored data to uncover hidden patterns and trends, providing valuable insights for business decisions.
 - Extract data and clean data from multiple data sources.
@@ -12,7 +12,7 @@ Junior Data Scientist @ TechBridge Consulting (2022 - 2023)
 - Measure and improve results
 - Present final results to a senior and make adjustments based on the feedback.
 
-Head of Operations @ CREIN (2019- 2022)
+**Head of Operations @ CREIN (2019- 2022)**
 - Devised, deployed and monitored processes to boost long-term business success and increase profit levels.
 - Oversee the implementation of technology solutions throughout the organization.
 - Coordinate customer service operations and find ways to ensure customer retention.
@@ -21,7 +21,7 @@ Head of Operations @ CREIN (2019- 2022)
   advocate for various personnel issues.
 - Created, managed and executed the business plan and communicated company vision and objectives to motivate teams.
 
-Head of Information Technology at CREIN (2016- 2019)
+**Head of Information Technology at CREIN (2016- 2019)**
 - Oversaw daily performance of computer systems and immediately respond to issues to keep network up and running. 
 - Managing IT staff by recruiting and training employees,communicating job expectations and monitoring performance. 
 - Coordinating technology installations, upgrades and maintenance.
