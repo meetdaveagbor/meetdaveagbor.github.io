@@ -3,7 +3,7 @@ Technical Skills: Python, R,Tableau, SQL, CSS, HTML
 
 # Work Experience Skills
 Junior Data Scientist @ TechBridge Consulting (2022 - 2023)   
-. Worked on projects involving large data sets and multivariate analysis to develop models for predicting user behaviors.
+- Worked on projects involving large data sets and multivariate analysis to develop models for predicting user behaviors.
 . Explored data to uncover hidden patterns and trends, providing valuable insights for business decisions.
 . Extract data and clean data from multiple data sources.
 . Perform exploratory data analysis on the data loaded.
