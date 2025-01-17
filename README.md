@@ -1,5 +1,5 @@
 # Data Scientist
-Technical Skills: Python, R,Tableau, SQL, CSS, HTML
+**Technical Skills: Python, R,Tableau, SQL, CSS, HTM**
 
 # Work Experience Skills
 **Junior Data Scientist @ TechBridge Consulting (2022 - 2023)** 
