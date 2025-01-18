@@ -11,6 +11,7 @@
 - Apply those models and extract meaningful insights.
 - Measure and improve results
 - Present final results to a senior and make adjustments based on the feedback.
+- 
 
 **Head of Operations @ CREIN (2019- 2022)**
 - Devised, deployed and monitored processes to boost long-term business success and increase profit levels.
